@@ -38,6 +38,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Watch Dogs QR code walkthrough - 16](https://www.youtube.com/watch?v=Yyx5Qd0-9Ls)
 <!-- YOUTUBE:END -->
 
 ---
