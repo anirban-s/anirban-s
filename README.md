@@ -51,6 +51,8 @@
 
 ---
 
+<img align="left" alt="Anirban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirban-s&show_icons=true&hide_border=true" />
+
 [twitter]: https://twitter.com/anirban_codes
 [instagram]: https://www.instagram.com/anirban434
 [linkedin]: https://www.linkedin.com/in/sarkar-anirban
