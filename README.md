@@ -44,6 +44,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Correlation is not the causation!!](https://dev.to/anirban_coder/correlation-is-not-the-causation-5bj0)
+- [How to setup a cloud deployable machine learning model using Flask 🚀](https://dev.to/anirban_coder/how-to-setup-a-cloud-deployable-machine-learning-model-using-flask-10a)
+- [JavaScript Promise](https://dev.to/anirban_coder/i-promise-1d24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
