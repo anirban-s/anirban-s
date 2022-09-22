@@ -1,6 +1,6 @@
 ### Hi there, I'm Anirban 👋
 
-## I'm a Web Developer, Software Engineer!!
+## I'm a Data Scientist, Web Developer, Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
