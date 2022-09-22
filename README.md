@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar and computer games
 
 ### Connect with me:
@@ -57,7 +57,7 @@
 [twitter]: https://twitter.com/anirban_codes
 [instagram]: https://www.instagram.com/anirban434
 [linkedin]: https://www.linkedin.com/in/sarkar-anirban
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCWujUzOMZqyxq9ufYKQH2UQ
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
