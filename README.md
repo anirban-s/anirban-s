@@ -38,6 +38,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Install Anaconda In Windows 10](https://www.youtube.com/watch?v=b_14gZwxZJk)
 - [Welcome To The Channel](https://www.youtube.com/watch?v=bPPboUoVE7Q)
 - [1  Anaconda Installation In MacBook](https://www.youtube.com/watch?v=Nad0evczBv8)
 - [2. Introduction To Markdown With Jupyter Notebook](https://www.youtube.com/watch?v=MovT1vyrfYI)
