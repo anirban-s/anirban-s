@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Welcome To The Channel](https://www.youtube.com/watch?v=bPPboUoVE7Q)
-- [1  Anaconda Installation](https://www.youtube.com/watch?v=Nad0evczBv8)
+- [1  Anaconda Installation In MacBook](https://www.youtube.com/watch?v=Nad0evczBv8)
 - [2. Introduction To Markdown With Jupyter Notebook](https://www.youtube.com/watch?v=MovT1vyrfYI)
 <!-- YOUTUBE:END -->
 
