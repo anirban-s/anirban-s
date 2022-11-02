@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Data Science Roadmap For Beginners](https://www.youtube.com/watch?v=Pz4mOkKU-OQ)
 - [How To Create Development Environment In Anaconda](https://www.youtube.com/watch?v=Mg57oHxVyA0)
 - [How to Install Anaconda and Jupyter Notebook In Windows 10/11 [2022]](https://www.youtube.com/watch?v=b_14gZwxZJk)
 - [Welcome To The Channel](https://www.youtube.com/watch?v=bPPboUoVE7Q)
 - [1  Anaconda Installation In MacBook](https://www.youtube.com/watch?v=Nad0evczBv8)
-- [2. Introduction To Markdown With Jupyter Notebook](https://www.youtube.com/watch?v=MovT1vyrfYI)
 <!-- YOUTUBE:END -->
 
 ---
