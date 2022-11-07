@@ -42,7 +42,7 @@
 - [How To Create Development Environment In Anaconda](https://www.youtube.com/watch?v=Mg57oHxVyA0)
 - [How to Install Anaconda and Jupyter Notebook In Windows 10/11 [2022]](https://www.youtube.com/watch?v=b_14gZwxZJk)
 - [Welcome To The Channel](https://www.youtube.com/watch?v=bPPboUoVE7Q)
-- [1  Anaconda Installation In MacBook](https://www.youtube.com/watch?v=Nad0evczBv8)
+- [Anaconda Installation In MacBook Pro M1 [2022]](https://www.youtube.com/watch?v=Nad0evczBv8)
 <!-- YOUTUBE:END -->
 
 ---
