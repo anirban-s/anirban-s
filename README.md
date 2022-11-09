@@ -38,9 +38,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [String DataType In Python | lstrip, rstrip, lower, upper Methods Explained](https://www.youtube.com/watch?v=IVRlro_58Ao)
 - [Jupyter Notebook | How To Write Markdown In Jupyter Notebook](https://www.youtube.com/watch?v=73WRCRmBq4Q)
 - [Anaconda Installation In MacBook Pro M1 [2022]](https://www.youtube.com/watch?v=LmHVCQmB2Qc)
-- [Python String, Integer And Bool Data Type](https://www.youtube.com/watch?v=mvVyiDhr1NQ)
 - [What is Data Science | Complete RoadMap | Simply Explained Data Science Roadmap For Beginners](https://www.youtube.com/watch?v=Pz4mOkKU-OQ)
 - [How To Create Development Environment In Anaconda](https://www.youtube.com/watch?v=Mg57oHxVyA0)
 <!-- YOUTUBE:END -->
