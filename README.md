@@ -42,7 +42,7 @@
 - [Number DataType | Int and Float](https://www.youtube.com/watch?v=h70BL8LzTlg)
 - [String DataType In Python | lstrip, rstrip, lower, upper Methods Explained](https://www.youtube.com/watch?v=IVRlro_58Ao)
 - [Jupyter Notebook | How To Write Markdown In Jupyter Notebook](https://www.youtube.com/watch?v=73WRCRmBq4Q)
-- [Anaconda Installation In MacBook Pro M1 [2022]](https://www.youtube.com/watch?v=LmHVCQmB2Qc)
+- [How To Install Anaconda In MacBook Pro M1 [2022]](https://www.youtube.com/watch?v=LmHVCQmB2Qc)
 <!-- YOUTUBE:END -->
 
 ---
