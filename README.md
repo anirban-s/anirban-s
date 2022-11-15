@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tuple Data Structure In Python | Difference Between List And Tuple](https://www.youtube.com/watch?v=IOEBYKbyWmk)
 - [List Data Structure In Python | pop, append, remove](https://www.youtube.com/watch?v=s9UlTFFGwlE)
 - [Bool Data Type In Python | Logical Operators](https://www.youtube.com/watch?v=T5E4C_OIEW8)
 - [Number DataType | Int and Float](https://www.youtube.com/watch?v=h70BL8LzTlg)
 - [String DataType In Python | lstrip, rstrip, lower, upper Methods Explained](https://www.youtube.com/watch?v=IVRlro_58Ao)
-- [Jupyter Notebook | How To Write Markdown In Jupyter Notebook](https://www.youtube.com/watch?v=73WRCRmBq4Q)
 <!-- YOUTUBE:END -->
 
 ---
