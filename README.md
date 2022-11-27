@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [For Loop In Python | Classic FizzBuzz In Python](https://www.youtube.com/watch?v=OClEW0Wc3AE)
 - [If Else In Python | Conditional Flow](https://www.youtube.com/watch?v=8hvymjUMU8g)
 - [Set In Python | intersection, difference and union Methods Explained](https://www.youtube.com/watch?v=98XUEWwgklU)
 - [Dictionary In Python | Different Ways To Create Dictionary In Python](https://www.youtube.com/watch?v=a9aFPpVHyRI)
 - [Tuple In Python | Difference Between List And Tuple](https://www.youtube.com/watch?v=IOEBYKbyWmk)
-- [List In Python | pop, append, remove](https://www.youtube.com/watch?v=s9UlTFFGwlE)
 <!-- YOUTUBE:END -->
 
 ---
