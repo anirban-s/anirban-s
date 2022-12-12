@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Function In Python | Lambda Function | Difference Between *args And **kargs](https://www.youtube.com/watch?v=oC19hh5pSds)
 - [List Comprehensions | Dictionary Comprehensions In Python](https://www.youtube.com/watch?v=UERmueDfhfY)
 - [While Loop In Python | Simple Guessing Game Using While Loop](https://www.youtube.com/watch?v=Wa8AZNw0vGE)
 - [For Loop In Python | Classic FizzBuzz In Python](https://www.youtube.com/watch?v=OClEW0Wc3AE)
 - [If Else In Python | Conditional Flow](https://www.youtube.com/watch?v=8hvymjUMU8g)
-- [Set In Python | intersection, difference and union Methods Explained](https://www.youtube.com/watch?v=98XUEWwgklU)
 <!-- YOUTUBE:END -->
 
 ---
