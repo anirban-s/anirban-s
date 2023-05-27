@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Bionic Reading | Read 10x Faster With This Technique](https://www.youtube.com/watch?v=kYrugNrRXpk)
 - [Mark To Notion Setup Guide |  Chrome Extension](https://www.youtube.com/watch?v=wtsb9Tm7tKA)
 - [Function In Python | Lambda Function | Difference Between *args And **kargs](https://www.youtube.com/watch?v=oC19hh5pSds)
 - [List Comprehensions | Dictionary Comprehensions In Python](https://www.youtube.com/watch?v=UERmueDfhfY)
 - [While Loop In Python | Simple Guessing Game Using While Loop](https://www.youtube.com/watch?v=Wa8AZNw0vGE)
-- [For Loop In Python | Classic FizzBuzz In Python](https://www.youtube.com/watch?v=OClEW0Wc3AE)
 <!-- YOUTUBE:END -->
 
 ---
