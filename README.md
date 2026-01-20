@@ -3,9 +3,7 @@
 ## I'm a Data Scientist, Web Developer, Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar and computer games
+- 🥅 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -32,15 +30,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-
 <br />
 <br />
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
+
 - [Bionic Reading | Read 10x Faster With This Technique](https://www.youtube.com/watch?v=kYrugNrRXpk)
-- [Mark To Notion Setup Guide |  Chrome Extension](https://www.youtube.com/watch?v=wtsb9Tm7tKA)
-- [Function In Python | Lambda Function | Difference Between *args And **kargs](https://www.youtube.com/watch?v=oC19hh5pSds)
+- [Mark To Notion Setup Guide | Chrome Extension](https://www.youtube.com/watch?v=wtsb9Tm7tKA)
+- [Function In Python | Lambda Function | Difference Between \*args And \*\*kargs](https://www.youtube.com/watch?v=oC19hh5pSds)
 - [List Comprehensions | Dictionary Comprehensions In Python](https://www.youtube.com/watch?v=UERmueDfhfY)
 - [While Loop In Python | Simple Guessing Game Using While Loop](https://www.youtube.com/watch?v=Wa8AZNw0vGE)
 <!-- YOUTUBE:END -->
@@ -48,7 +47,9 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Correlation is not the causation!!](https://dev.to/anirban_coder/correlation-is-not-the-causation-5bj0)
 - [How to setup a cloud deployable machine learning model using Flask 🚀](https://dev.to/anirban_coder/how-to-setup-a-cloud-deployable-machine-learning-model-using-flask-10a)
 - [JavaScript Promise](https://dev.to/anirban_coder/i-promise-1d24)
